@@ -37,7 +37,7 @@
 </p>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio-INa&layout=donut"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio-IN&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -48,4 +48,4 @@
 </picture>
 </body>
 
-![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact&theme=dark)
+![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio_IN&layout=compact&theme=dark)
