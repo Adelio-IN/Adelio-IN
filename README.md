@@ -46,4 +46,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Adelio-IN&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio-INa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </body>
