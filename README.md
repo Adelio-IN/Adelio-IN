@@ -32,23 +32,6 @@
 </picture>
 
 ![LEEIN's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio_IN&layout=compact&theme=dark)
-name: Featured star list languages
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.starlists.languages.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_starlists: yes
-  plugin_starlists_languages: yes
-  plugin_starlists_limit_languages: 8
-  plugin_starlists_limit_repositories: 0
-  plugin_starlists_only: Awesome
-  
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+
+<!-- 3D 잔디 이미지 -->
+![](./profile-3d-contrib/profile-gitblock.svg)
