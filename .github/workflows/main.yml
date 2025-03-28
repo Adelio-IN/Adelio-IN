@@ -35,4 +35,3 @@ jobs:
           git add -A .
           git commit -m "${{ github.event.inputs.commit_message }}" || echo "No changes to commit"
           git push origin main
-[출처] [깃허브] 깃허브(Github) 리드미 3D 잔디 꾸미기|작성자 juble
