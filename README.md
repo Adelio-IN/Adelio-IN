@@ -37,7 +37,7 @@
 </p>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Adelio-IN&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio-INa&layout=donut"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -46,5 +46,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Adelio-IN&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio-INa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </body>
