@@ -47,3 +47,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Adelio-IN&show_icons=true" />
 </picture>
 </body>
+
+![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact&theme=dark)
