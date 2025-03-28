@@ -48,4 +48,4 @@
 </picture>
 </body>
 
-![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio_IN&layout=compact&theme=dark)
+![LEEIN's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio_IN&layout=compact&theme=dark)
