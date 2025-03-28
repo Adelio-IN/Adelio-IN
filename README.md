@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=blur&color=auto&height=300&section=header)
-[출처] [깃허브] 깃허브 프로필 꾸미기|작성자 캥이
-<h1 align="center">Hi 👋, I'm LEE IN</h1>
+![header](https://capsule-render.vercel.app/api?text=LEEIN&animation=fadeIn&type=blur&color=auto&height=300&section=header)
 <h3 align="center">I am a student majoring in artificial intelligence software at Cheongju University.</h3>
 
 <h3 align="left">Connect with me:</h3>
