@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-</span>&nbsp;&nbsp;&nbsp;
+</span><br/>&nbsp;&nbsp;&nbsp;
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelio-IN&show_icons=true&theme=dark"
