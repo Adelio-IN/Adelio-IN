@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=LEEIN&animation=fadeIn&type=blur&color=auto&height=300&section=header)
-<h3 align="center">I am a student majoring in artificial intelligence software at Cheongju University.</h3>
+<h3 align="center">I am a student majoring in Artificial Intelligence Software at Cheongju University.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </p>
